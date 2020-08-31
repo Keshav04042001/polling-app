@@ -30,5 +30,5 @@ npm run server
 ```
 
 ## Contact :email:
-For any query or build issues feel free to reach out to me:<br>
-[Peadhumn](https://github.com/davedevelopers/) at ddave2001@gmail.com
+For any query feel free to reach out to me:<br>
+[Pradhumn](https://github.com/davedevelopers/) at ddave2001@gmail.com
